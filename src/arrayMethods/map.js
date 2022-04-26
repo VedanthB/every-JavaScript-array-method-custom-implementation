@@ -23,4 +23,4 @@ Array.prototype.customMap = function (callback) {
   return resultArr;
 };
 
-console.log([1, 2, 3, 4, 5].customMap((item, index) => item * 10));
+// console.log([1, 2, 3, 4, 5].customMap((item, index) => item * 10));
